@@ -1,0 +1,8 @@
+1,asep,bali,2983
+2,imoet,ngawi,88788
+3,uniga,bogor,73734
+4,asd,rt,895,amba,rrt,12
+5,abasd,daksdka,43
+6,ass,ff,90
+7,8,9,9
+8,abh,bandong,23
