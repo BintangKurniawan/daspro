@@ -27,3 +27,9 @@ def kosong():
 
 def funcKwargs(**data):
     print(data)
+
+def funcArgsKwargs(*angka, **data):
+    print(angka)
+    print(data)
+
+funcArgsKwargs(1,2,3,4,5,6,7,8,9,10, a = 1, b = 2, c = 3)
