@@ -10,7 +10,7 @@ def pengurangan (a,b):
 pengurangan(b = 2, a = 3)
 pengurangan(2,3)
 
-def greet(name = "Nigger"):
+def greet(name = "Ambabas"):
     print(f"Hello {name}")
 
 greet()
