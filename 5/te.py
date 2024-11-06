@@ -60,5 +60,3 @@ for i in angka1:
 for i in range(100,0, -22):
     print(i)
 
-for i in range (1, 6):
-    print(i)
